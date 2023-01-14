@@ -17,6 +17,9 @@ module.exports = {
 			},
 			fontFamily: {
 				poppins: ['Poppins', 'sans-serif']
+			},
+			spacing: {
+				18: '4.5rem'
 			}
 		}
 	},

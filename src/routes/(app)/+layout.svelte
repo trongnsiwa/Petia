@@ -5,7 +5,7 @@
 
 <Navbar />
 
-<div>
+<div class="container mx-auto">
 	<Sidebar />
 	<slot />
 </div>
